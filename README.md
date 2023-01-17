@@ -1,4 +1,4 @@
-aspiring web developerr, currently working with HTML, CSS, JavaScript, Java, Python, and C 
+aspiring web developer, currently working with HTML, CSS, JavaScript, Java, Python, and C 
 
 <!---
 __________________________________________________________
